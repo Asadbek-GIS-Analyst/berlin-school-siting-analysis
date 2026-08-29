@@ -1,6 +1,10 @@
 # berlin-school-siting-analysis.
 GIS suitability analysis for new Grundschule sites in Berlin
 
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-008080?style=for-the-badge)
+![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge)
 # Site Suitability Analysis for New Primary Schools (Grundschulen) in Berlin
 
 A GIS-based multi-criteria decision analysis (MCDA) project identifying priority locations for new public primary schools in Berlin, Germany. The analysis combines demand-capacity mismatch (population vs. current school enrollment), pedestrian network accessibility, and land-use suitability to rank and validate candidate sites.
