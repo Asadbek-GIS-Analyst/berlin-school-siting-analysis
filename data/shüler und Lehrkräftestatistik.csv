@@ -1,0 +1,910 @@
+Schuljahr,BSN,NAME,Sch?ler (m/w/d),Sch?ler (w),Sch?ler (m),"Lehrkr?fte (m,w,d)",Lehrkr?fte (w),Lehrkr?fte (m)
+2024/25,01B01,"OSZ Banken, Immobilien und Versicherungen",1603,642,961,76,41,35
+2024/25,01B02,Staatliche Technikerschule Berlin,480,56,424,57,25,32
+2024/25,01B03,"OSZ Kommunikations-, Informations- und Medientechnik",1226,310,916,82,40,42
+2024/25,01B04,OSZ Gesundheit I,2902,2564,338,94,65,29
+2024/25,01G01,Grundschule am Arkonaplatz,426,191,235,34,28,6
+2024/25,01G02,Papageno-Grundschule,616,307,309,51,33,18
+2024/25,01G04,Kastanienbaum-Grundschule,415,200,215,26,22,4
+2024/25,01G05,Grundschule Neues Tor,389,206,183,35,25,10
+2024/25,01G07,GutsMuths-Grundschule,410,201,209,34,27,7
+2024/25,01G08,Grundschule am Brandenburger Tor,514,257,257,39,31,8
+2024/25,01G10,City-Grundschule,605,305,300,41,32,9
+2024/25,01G11,Kurt-Tucholsky-Grundschule,684,337,347,59,44,15
+2024/25,01G15,Anne-Frank-Grundschule,370,169,201,29,21,8
+2024/25,01G16,Moabiter Grundschule,456,212,244,44,34,10
+2024/25,01G18,Carl-Bolle-Grundschule,336,173,163,29,22,7
+2024/25,01G19,Hansa-Grundschule,420,204,216,31,27,4
+2024/25,01G24,Gottfried-R?hl-Grundschule,471,226,245,43,35,8
+2024/25,01G25,Rudolf-Wissell-Grundschule,419,168,251,42,30,12
+2024/25,01G27,Gesundbrunnen-Grundschule,514,258,256,49,36,13
+2024/25,01G28,Br?der-Grimm-Grundschule,580,294,286,52,40,12
+2024/25,01G29,Wilhelm-Hauff-Grundschule,420,208,212,47,37,10
+2024/25,01G31,Wedding-Grundschule,513,250,263,53,44,9
+2024/25,01G32,Carl-Kraemer-Grundschule,460,226,234,38,26,12
+2024/25,01G35,Humboldthain-Grundschule,403,208,195,39,31,8
+2024/25,01G36,Andersen-Grundschule,367,171,196,32,22,10
+2024/25,01G37,Heinrich-Seidel-Grundschule,506,247,259,46,38,8
+2024/25,01G38,Gustav-Falke-Grundschule,491,227,264,40,33,7
+2024/25,01G39,Vineta-Grundschule,375,168,207,36,26,10
+2024/25,01G40,M?wensee-Grundschule,578,299,279,52,35,17
+2024/25,01G41,Erika-Mann-Grundschule,559,284,275,61,45,16
+2024/25,01G42,Anna-Lindh-Schule (Grundschule),453,210,243,52,40,12
+2024/25,01G43,Albert-Gutzmann-Schule (Grundschule),447,208,239,39,26,13
+2024/25,01G44,Allegro-Grundschule,442,224,218,49,38,11
+2024/25,01G45,Leo-Lionni-Grundschule,549,264,285,51,37,14
+2024/25,01G46,Grundschule am Koppenplatz,748,367,381,56,41,15
+2024/25,01G47,Miriam-Makeba-Grundschule,461,235,226,47,34,13
+2024/25,01G48,Grundschule am Nordhafen,490,245,245,35,27,8
+2024/25,01G49,49. Schule (Grundschule),176,87,89,17,17,0
+2024/25,01K01,Willy-Brandt-Schule,677,299,378,75,41,34
+2024/25,01K02,Ernst-Schering-Schule,579,289,290,59,43,16
+2024/25,01K03,Ernst-Reuter-Schule,926,459,467,107,61,46
+2024/25,01K04,Heinrich-von-Stephan-Gemeinschaftsschule,837,385,452,80,49,31
+2024/25,01K06,Herbert-Hoover-Schule (Integrierte Sekundarschule),462,235,227,49,36,13
+2024/25,01K07,Hemingway-Schule,464,205,259,54,33,21
+2024/25,01K08,Schule am Schillerpark (Integrierte Sekundarschule),564,251,313,68,48,20
+2024/25,01K09,Hedwig-Dohm-Schule (Integrierte Sekundarschule),541,232,309,61,30,31
+2024/25,01K10,Theodor-Heuss-Gemeinschaftsschule,990,512,478,98,65,33
+2024/25,01P01,Evangelische Schule Berlin Mitte (Gemeinschaftsschule),297,152,145,26,24,2
+2024/25,01P03,J?disches Gymnasium Moses Mendelssohn,536,284,252,58,29,29
+2024/25,01P04,Freie Waldorfschule Berlin Mitte,429,221,208,43,28,15
+2024/25,01P05,Katholische Schule Sankt Paulus (Grundschule),368,194,174,28,24,4
+2024/25,01P06,Canisius-Kolleg,896,449,447,83,40,43
+2024/25,01P07,Lazarus Schulen der Hoffnungstaler Stiftung Lobetal,197,133,64,23,15,8
+2024/25,01P13,Freie Schule am Mauerpark (Grundschule),78,38,40,7,5,2
+2024/25,01P14,BEST-Sabel Berufsakademie,565,404,161,52,35,17
+2024/25,01P16,Berlin Metropolitan School (Integrierte Sekundarschule),992,513,479,124,78,46
+2024/25,01P18,Bilinguale Schule Phorms Berlin Mitte,768,410,358,84,57,27
+2024/25,01P22,Berlin Cosmopolitan School,602,316,286,62,33,29
+2024/25,01P23,Evangelische Schule Berlin Zentrum (Gemeinschaftsschule),728,362,366,90,54,36
+2024/25,01P25,Internationale Lomonossow-Schule Berlin (Gemeinschaftsschule),240,117,123,32,27,5
+2024/25,01P36,BTB Schulzentrum gGmbH,150,76,74,23,20,3
+2024/25,01P39,GPB College gGmbH,310,165,145,36,13,23
+2024/25,01P40,Berufsfachschule Paulo Freire im Zentrum ?BERLEBEN,85,49,36,13,8,5
+2024/25,01P42,WWV Bildungsakademie gGmbH,169,81,88,11,7,4
+2024/25,01P46,DDA Destiny Diversity Academy GmbH,38,33,5,11,6,5
+2024/25,01P47,Ecole Voltaire (Grundschule),331,159,172,32,23,9
+2024/25,01P48,meco Akademie GmbH,727,577,150,29,21,8
+2024/25,01P49,Quinoa-Schule Freie Sekundarschule Berlin Wedding,181,82,99,23,14,9
+2024/25,01P50,Kristall Grundschule - Inklusive Grundschule in freier Tr?gerschaft,106,50,56,12,8,4
+2024/25,01P51,mediencollege Berlin gGmbH,291,212,79,33,20,13
+2024/25,01P52,Schulen der ASIG Stiftung e.V.,73,26,47,14,6,8
+2024/25,01P54,CeFi - Fachschule f?r Sozialp?dagogik,51,46,5,4,3,1
+2024/25,01P55,FR?BEL Akademie gGmbH - Fachschule f?r Sozialp?dagogik,76,60,16,5,3,2
+2024/25,01S01,Schule am Zille-Park,244,60,184,50,29,21
+2024/25,01S05,Schule in der Charit?,234,106,128,47,40,7
+2024/25,01S06,Albert-Gutzmann-Schule,157,53,104,21,15,6
+2024/25,01S07,Charlotte-Pfeffer-Schule,197,65,132,46,39,7
+2024/25,01Y02,John-Lennon-Gymnasium,761,402,359,66,36,30
+2024/25,01Y04,Musikgymnasium Carl Philipp Emanuel Bach,164,90,74,19,10,9
+2024/25,01Y07,Franz?sisches Gymnasium,812,393,419,67,47,20
+2024/25,01Y08,Lessing-Gymnasium,775,369,406,74,48,26
+2024/25,01Y09,Diesterweg-Gymnasium,660,357,303,56,32,24
+2024/25,01Y11,Max-Planck-Gymnasium,880,462,418,76,47,29
+2024/25,01Y12,Gymnasium Tiergarten,1059,582,477,89,60,29
+2024/25,01Y13,13. Schule (Gymnasium),105,46,59,11,5,6
+2024/25,02B01,August-Sander-Schule,835,378,457,87,52,35
+2024/25,02B02,Hans-B?ckler-Schule (OSZ Konstruktionsbautechnik),931,81,850,62,27,35
+2024/25,02B03,Modeschule Berlin (OSZ Bekleidung und Mode),651,423,228,71,57,14
+2024/25,02B04,OSZ Handel 1,3482,1426,2056,147,103,44
+2024/25,02B05,Jane-Addams-Schule (OSZ Sozialwesen),1709,1248,461,123,74,49
+2024/25,02G01,Spartacus-Grundschule,486,242,244,36,26,10
+2024/25,02G02,Hausburg-Grundschule,552,268,284,49,36,13
+2024/25,02G03,Justus-von-Liebig-Grundschule,546,253,293,36,28,8
+2024/25,02G04,Pettenkofer-Grundschule,657,347,310,45,39,6
+2024/25,02G07,Ludwig-Hoffmann-Grundschule,454,206,248,32,25,7
+2024/25,02G08,Grundschule am Traveplatz,405,209,196,32,28,4
+2024/25,02G09,Zille-Grundschule,568,252,316,34,31,3
+2024/25,02G10,Modersohn-Grundschule,444,222,222,30,21,9
+2024/25,02G11,Thalia-Grundschule,438,213,225,27,24,3
+2024/25,02G12,Kurt-Schumacher-Grundschule,283,148,135,34,22,12
+2024/25,02G13,Charlotte-Salomon-Grundschule,422,209,213,47,45,2
+2024/25,02G14,Galilei-Grundschule,500,251,249,45,32,13
+2024/25,02G18,N?rtingen-Grundschule,568,291,277,53,46,7
+2024/25,02G19,Fanny-Hensel-Grundschule,286,129,157,26,23,3
+2024/25,02G20,B?rgermeister-Herz-Grundschule,448,214,234,35,31,4
+2024/25,02G21,Reinhardswald-Grundschule,621,280,341,44,37,7
+2024/25,02G22,Jens-Nydahl-Grundschule,303,159,144,34,30,4
+2024/25,02G23,Fichtelgebirge-Grundschule,414,201,213,32,25,7
+2024/25,02G24,Otto-Wels-Grundschule,519,237,282,50,37,13
+2024/25,02G26,Lemgo-Grundschule,436,201,235,45,31,14
+2024/25,02G27,Hunsr?ck-Grundschule,529,265,264,46,35,11
+2024/25,02G29,Heinrich-Zille-Grundschule,428,216,212,53,46,7
+2024/25,02G31,Adolf-Gla?brenner-Grundschule,415,199,216,34,26,8
+2024/25,02G32,Clara-Grunwald-Grundschule,312,162,150,34,27,7
+2024/25,02G33,Aziz-Nesin-Grundschule,302,146,156,30,25,5
+2024/25,02G34,Jane-Goodall-Grundschule,381,176,205,28,25,3
+2024/25,02G35,Rosa-Parks-Grundschule,685,327,358,49,34,15
+2024/25,02G36,Blumen-Grundschule,650,296,354,56,43,13
+2024/25,02G37,37. Schule (Grundschule),364,174,190,30,20,10
+2024/25,02K01,Ellen-Key-Schule,811,393,418,79,53,26
+2024/25,02K02,Carl-von-Ossietzky-Gemeinschaftsschule,1170,603,567,112,71,41
+2024/25,02K03,Hector-Peterson-Schule,549,243,306,60,28,32
+2024/25,02K04,Bergmannkiez-Gemeinschaftsschule,894,465,429,89,56,33
+2024/25,02K05,Schule am K?nigstor (Integrierte Sekundarschule),320,132,188,56,30,26
+2024/25,02K06,Emanuel-Lasker-Schule (Gemeinschaftsschule),996,457,539,88,49,39
+2024/25,02K07,Georg-Weerth-Schule,468,178,290,49,27,22
+2024/25,02K08,Refik-Veseli-Schule (Integrierte Sekundarschule),536,238,298,75,39,36
+2024/25,02K09,Albrecht-von-Graefe-Schule (Integrierte Sekundarschule),482,238,244,56,30,26
+2024/25,02K10,Ferdinand-Freiligrath-Schule (Integrierte Sekundarschule),417,195,222,39,27,12
+2024/25,02P03,Islamische Grundschule,158,83,75,14,12,2
+2024/25,02P04,Freie Waldorfschule Kreuzberg,715,365,350,73,54,19
+2024/25,02P05,Sozialp?dagogisches Institut Berlin „Walter May“ - Stiftung SPI,638,466,172,60,34,26
+2024/25,02P07,Campus Berufsbildung e.V.,326,132,194,29,15,14
+2024/25,02P09,Freie Schule Kreuzberg (Grundschule),46,26,20,5,3,2
+2024/25,02P11,Berlin Bilingual School (Grundschule),277,144,133,26,19,7
+2024/25,02P12,Kreativit?tsGrundschule Berlin Friedrichshain,343,186,157,40,29,11
+2024/25,02P13,Netzwerk-Schule (Gemeinschaftsschule),104,48,56,9,6,3
+2024/25,02P19,FORUM Berufsbildung e.V.,448,323,125,41,25,16
+2024/25,02P22,Pro Inklusio - Fachschule f?r Sozialp?dagogik,544,410,134,27,23,4
+2024/25,02P23,Concept Berufliche Schulen gGmbH Berlin,174,117,57,25,20,5
+2024/25,02P25,Evangelische Schule Berlin Friedrichshain (Grundschule),144,79,65,15,11,4
+2024/25,02P29,Kenntnisreich gGmbH,29,20,9,3,3,0
+2024/25,02P30,Concept - Fachschule f?r Sozialp?dagogik,124,92,32,11,8,3
+2024/25,02P31,procon College,13,11,2,1,,
+2024/25,02P33,Freie Schule Windrose (Grundschule),67,27,40,5,4,1
+2024/25,02S01,Temple-Grandin-Schule,223,89,134,39,34,5
+2024/25,02S02,Gustav-Meyer-Schule,156,55,101,40,33,7
+2024/25,02S03,Margarethe-von-Witzleben-Schule,264,95,169,45,36,9
+2024/25,02S06,Liebmann-Schule,132,32,100,23,19,4
+2024/25,02Y01,Andreas-Gymnasium,804,350,454,64,34,30
+2024/25,02Y03,Heinrich-Hertz-Gymnasium,680,193,487,51,27,24
+2024/25,02Y04,Georg-Friedrich-H?ndel-Gymnasium,548,337,211,46,20,26
+2024/25,02Y05,Dathe-Gymnasium,907,480,427,71,47,24
+2024/25,02Y06,Leibniz-Gymnasium,827,436,391,69,38,31
+2024/25,02Y07,Robert-Koch-Gymnasium,653,344,309,54,33,21
+2024/25,02Y08,Hermann-Hesse-Gymnasium,593,302,291,57,29,28
+2024/25,03B02,Berufliche Schule f?r Sozialwesen Pankow,701,487,214,60,47,13
+2024/25,03B04,Brillat-Savarin-Schule (OSZ Gastgewerbe),4136,1821,2315,152,105,47
+2024/25,03B06,Konrad-Zuse-Schule,443,170,273,43,20,23
+2024/25,03B07,Elinor-Ostrom-Schule (OSZ B?rowirtschaft und Dienstleistungen),1068,436,632,89,49,40
+2024/25,03B08,Staatliche Ballett- und Artistikschule Berlin,235,178,57,68,45,23
+2024/25,03B10,"Max-Bill-Schule (OSZ Planen, Bauen, Gestalten)",2907,798,2109,154,76,78
+2024/25,03G01,Schule am Hamburger Platz (Grundschule),490,235,255,30,25,5
+2024/25,03G02,Heinrich-Roller-Grundschule,428,200,228,28,24,4
+2024/25,03G03,Grundschule am Kollwitzplatz,427,222,205,31,25,6
+2024/25,03G04,Grundschule an der Marie,493,260,233,34,31,3
+2024/25,03G05,Homer-Grundschule,317,160,157,22,21,1
+2024/25,03G06,B?tzow-Grundschule,402,208,194,31,26,5
+2024/25,03G08,Grundschule am Planetarium,363,156,207,49,40,9
+2024/25,03G09,Thomas-Mann-Grundschule,499,249,250,27,21,6
+2024/25,03G10,Grundschule am Hohen Feld,595,267,328,40,34,6
+2024/25,03G11,Schule am Falkplatz (Grundschule),728,369,359,46,34,12
+2024/25,03G12,Paul-Lincke-Grundschule,457,220,237,33,23,10
+2024/25,03G13,Grundschule in Rosenthal,567,282,285,39,33,6
+2024/25,03G14,Bornholmer Grundschule,589,298,291,39,35,4
+2024/25,03G15,Schule am Senefelderplatz,470,217,253,37,32,5
+2024/25,03G16,Grundschule am Teutoburger Platz,498,231,267,34,27,7
+2024/25,03G17,Grundschule am Wei?en See,432,216,216,29,22,7
+2024/25,03G18,Picasso-Grundschule,575,289,286,44,36,8
+2024/25,03G20,Grundschule im Moselviertel,408,192,216,31,27,4
+2024/25,03G21,Grundschule unter den B?umen,455,220,235,29,22,7
+2024/25,03G22,Grundschule am Wasserturm,580,285,295,40,33,7
+2024/25,03G23,Grundschule Alt-Karow,496,240,256,31,28,3
+2024/25,03G24,Grundschule im Panketal,600,302,298,41,34,7
+2024/25,03G25,Carl-Humann-Grundschule,493,245,248,30,25,5
+2024/25,03G26,Arnold-Zweig-Grundschule,599,275,324,40,36,4
+2024/25,03G27,Elizabeth-Shaw-Grundschule,470,240,230,32,29,3
+2024/25,03G28,Hasengrund-Schule (Grundschule),496,236,260,33,27,6
+2024/25,03G29,Grundschule Am Sandhaus,342,177,165,27,21,6
+2024/25,03G32,Grundschule an den Buchen,391,181,210,26,23,3
+2024/25,03G33,Jeanne-Barez-Schule (Grundschule),830,412,418,49,40,9
+2024/25,03G34,Mendel-Grundschule,605,285,320,43,35,8
+2024/25,03G35,Platanengrundschule,137,75,62,8,8,0
+2024/25,03G36,Elisabeth-Christinen-Grundschule,492,234,258,33,26,7
+2024/25,03G37,Klecks-Grundschule,555,288,267,37,31,6
+2024/25,03G38,Grundschule im Blumenviertel,372,178,194,41,35,6
+2024/25,03G39,Grundschule Wolkenstein,459,227,232,33,29,4
+2024/25,03G40,Schule am Birkenhof,453,237,216,33,29,4
+2024/25,03G41,Trelleborg-Schule (Grundschule),643,353,290,42,36,6
+2024/25,03G43,Grundschule Wilhelmsruh,568,280,288,39,28,11
+2024/25,03G44,Georg-Zacharias-Grundschule,382,200,182,29,22,7
+2024/25,03G45,Grundschule im Hofgarten,410,187,223,32,28,4
+2024/25,03G46,Grundschule im Eliashof,338,181,157,23,16,7
+2024/25,03G47,47. Schule (Grundschule),335,150,185,26,21,5
+2024/25,03G48,Maria-Leo-Grundschule,385,190,195,29,29,0
+2024/25,03G49,49. Schule (Grundschule),250,116,134,18,15,3
+2024/25,03G50,50. Schule (Grundschule),254,117,137,20,18,2
+2024/25,03G51,51. Schule (Grundschule),32,13,19,1,1,0
+2024/25,03K01,Kurt-Schwitters-Schule,987,526,461,94,59,35
+2024/25,03K02,Kurt-Tucholsky-Schule (Integrierte Sekundarschule),991,568,423,84,46,38
+2024/25,03K03,Konrad-Duden-Schule (Integrierte Sekundarschule),647,259,388,64,43,21
+2024/25,03K04,Gustave-Eiffel-Schule,627,271,356,65,36,29
+2024/25,03K05,Heinz-Brandt-Schule,487,227,260,51,35,16
+2024/25,03K06,Reinhold-Burger-Schule,474,200,274,47,32,15
+2024/25,03K07,Tesla-Schule (Gemeinschaftsschule),832,335,497,70,51,19
+2024/25,03K08,Hagenbeck-Schule,459,218,241,44,24,20
+2024/25,03K09,Janusz-Korczak-Schule (Integrierte Sekundarschule),389,153,236,38,20,18
+2024/25,03K10,Hufeland-Schule (Integrierte Sekundarschule),681,289,392,61,33,28
+2024/25,03K11,Wilhelm-von-Humboldt-Gemeinschaftsschule,1007,515,492,96,77,19
+2024/25,03P03,Schulen Christburg Campus Prenzlauer Berg,598,319,279,46,32,14
+2024/25,03P08,Katholisches Schulzentrum Edith Stein,145,93,52,20,12,8
+2024/25,03P10,Katholische Theresienschule (Gymnasium),676,387,289,56,30,26
+2024/25,03P11,Stephanus-Schule,96,41,55,18,14,4
+2024/25,03P12,Evangelische Schule Pankow (Grundschule),291,151,140,29,22,7
+2024/25,03P13,Freie Schule Pankow (Integrierte Sekundarschule),117,58,59,11,5,6
+2024/25,03P14,Freie Grundschule Pfefferwerk,138,77,61,14,11,3
+2024/25,03P15,GPB-College gGmbH,160,39,121,17,4,13
+2024/25,03P18,dreieins-Grundschule Berlin-Pankow,282,137,145,28,20,8
+2024/25,03P20,SchuleEins (Gemeinschaftsschule),686,337,349,66,34,32
+2024/25,03P21,Freie Integrative Montessori Grundschule Pankow,94,54,40,11,10,1
+2024/25,03P22,Klax-Gemeinschaftsschule,615,266,349,56,32,24
+2024/25,03P23,Freie Naturschule im StadtGUT (Grundschule),66,31,35,5,2,3
+2024/25,03P24,Ting-Schule (Integrierte Sekundarschule),37,14,23,3,2,1
+2024/25,03P26,Lauder Beth-Zion Schule (Gemeinschaftsschule),93,45,48,27,19,8
+2024/25,03P27,Klax Berufsakademie,189,133,56,12,7,5
+2024/25,03P28,Platanus Schule Berlin (Gemeinschaftsschule),507,254,253,53,32,21
+2024/25,03P30,Freie Waldorfschule am Prenzlauer Berg,328,189,139,35,19,16
+2024/25,03P32,Montessori-Gemeinschaftsschule Berlin Buch,270,145,125,27,22,5
+2024/25,03P33,Evangelische Schule Berlin Buch (Grundschule),261,121,140,19,12,7
+2024/25,03P36,WETEK - Fachschule f?r Sozialp?dagogik,166,114,52,17,12,5
+2024/25,03P37,Berlin Bilingual School (Integrierte Sekundarschule),145,81,64,24,13,11
+2024/25,03P38,S.K.O.U.T. - Fachschule f?r Sozialp?dagogik,41,23,18,8,6,2
+2024/25,03P39,Stephanus-Grundschule,270,135,135,16,12,4
+2024/25,03P40,SAfS - Spektrum Akademie f?r Sozialp?dagogik (Kein Schulbetrieb),8,7,1,4,3,1
+2024/25,03P42,Weiterdenker-Fachschule f?r Sozialp?dagogik,83,50,33,10,7,3
+2024/25,03P43,Pfefferwerk - Fachschule f?r Sozialp?dagogik,48,33,15,7,7,0
+2024/25,03P44,St. Hildegard Akademie gGmbH,0,0,0,,,
+2024/25,03P45,PepperMont Freie Sekundarschule f?r ganzheitliches Lernen,95,50,45,13,9,4
+2024/25,03P46,Technische Jugendfreizeit- und Bildungsgesellschaft (tjfbg) gGmbH,158,101,57,12,9,3
+2024/25,03P47,Bilinguale Schule Phorms Berlin Prenzlauer Berg (Grundschule),120,56,64,11,8,3
+2024/25,03P48,Freie Humanistische Grundschule,24,14,10,2,2,0
+2024/25,03S03,Helene-Haeusler-Schule,163,63,100,37,27,10
+2024/25,03S06,Schule am Birkenhof,79,32,47,14,10,4
+2024/25,03S08,Panke-Schule,134,45,89,29,22,7
+2024/25,03S09,Schule an der Strauchwiese,80,22,58,18,16,2
+2024/25,03S10,Marianne-Buggenhagen-Schule,220,110,110,43,32,11
+2024/25,03Y03,K?the-Kollwitz-Gymnasium,943,352,591,78,40,38
+2024/25,03Y04,Heinrich-Schliemann-Gymnasium,1204,709,495,93,47,46
+2024/25,03Y08,Carl-von-Ossietzky-Gymnasium,1123,691,432,101,62,39
+2024/25,03Y10,Rosa-Luxemburg-Gymnasium,1259,665,594,116,57,59
+2024/25,03Y13,Felix-Mendelssohn-Bartholdy-Gymnasium,1358,867,491,106,60,46
+2024/25,03Y14,Primo-Levi-Gymnasium,1331,668,663,109,69,40
+2024/25,03Y15,Max-Delbr?ck-Gymnasium,1056,546,510,84,52,32
+2024/25,03Y16,Robert-Havemann-Gymnasium,1154,540,614,85,47,38
+2024/25,03Y17,Inge-Deutschkron-Gymnasium,771,311,460,64,38,26
+2024/25,04A08,Sportschule im Olympiapark - Poelchau-Schule,524,248,276,67,40,27
+2024/25,04B01,Loschmidt-Oberschule,384,147,237,44,24,20
+2024/25,04B02,Hans-Litten-Schule (OSZ Recht und Wirtschaft),1637,769,868,108,67,41
+2024/25,04B03,OSZ Kraftfahrzeugtechnik,1831,107,1724,68,18,50
+2024/25,04B04,Ruth-Cohn-Schule (OSZ Sozialwesen),908,621,287,71,44,27
+2024/25,04B05,Anna-Freud-Schule (OSZ Sozialwesen),1484,1098,386,129,102,27
+2024/25,04B06,Leopold-Ullstein-Schule (OSZ Wirtschaft),1186,457,729,74,47,27
+2024/25,04B07,OSZ ?sthetik und Technik,1187,702,485,66,54,12
+2024/25,04G01,Eichendorff-Grundschule,447,207,240,30,24,6
+2024/25,04G02,Lietzensee-Grundschule,390,179,211,30,25,5
+2024/25,04G04,Joan-Mir?-Grundschule,726,361,365,60,49,11
+2024/25,04G05,Dietrich-Bonhoeffer-Grundschule,405,198,207,33,27,6
+2024/25,04G06,Wald-Grundschule,488,223,265,34,32,2
+2024/25,04G07,Ludwig-Cauer-Grundschule,485,239,246,33,30,3
+2024/25,04G08,Mierendorff-Grundschule,458,230,228,39,29,10
+2024/25,04G09,Erwin-von-Witzleben-Grundschule,447,211,236,34,27,7
+2024/25,04G11,Helmuth-James-von-Moltke-Grundschule,482,224,258,42,31,11
+2024/25,04G12,Schinkel-Grundschule,708,357,351,59,48,11
+2024/25,04G13,Nehring-Grundschule,505,253,252,42,32,10
+2024/25,04G14,Reinhold-Otto-Grundschule,440,223,217,35,27,8
+2024/25,04G15,Charles-Dickens-Grundschule,456,228,228,43,37,6
+2024/25,04G17,Johann-Peter-Hebel-Grundschule,550,274,276,46,42,4
+2024/25,04G18,Ernst-Habermann-Grundschule,334,163,171,23,15,8
+2024/25,04G19,Grundschule am R?desheimer Platz,562,275,287,51,43,8
+2024/25,04G20,Katharina-Heinroth-Grundschule,747,391,356,56,49,7
+2024/25,04G21,Halensee-Grundschule,446,227,219,27,25,2
+2024/25,04G22,Grunewald-Grundschule,585,277,308,36,32,4
+2024/25,04G23,Alt-Schmargendorf-Grundschule,530,249,281,40,36,4
+2024/25,04G24,Carl-Orff-Grundschule,613,319,294,44,35,9
+2024/25,04G25,Cecilien-Schule (Grundschule),434,210,224,31,27,4
+2024/25,04G26,Birger-Forell-Grundschule,417,205,212,34,29,5
+2024/25,04G27,Judith-Kerr-Grundschule,374,194,180,32,24,8
+2024/25,04K02,Friedensburg-Schule,1249,612,637,120,68,52
+2024/25,04K03,Robert-Jungk-Schule,888,410,478,104,65,39
+2024/25,04K04,Nelson-Mandela-Schule,1044,504,540,114,70,44
+2024/25,04K05,Paula-F?rst-Schule (Gemeinschaftsschule),1139,541,598,101,68,33
+2024/25,04K06,Schule am Schloss (Integrierte Sekundarschule),474,192,282,50,34,16
+2024/25,04K07,Integrierte Sekundarschule Wilmersdorf,344,161,183,32,18,14
+2024/25,04K08,Peter-Ustinov-Schule,461,211,250,58,30,28
+2024/25,04K09,Otto-von-Guericke-Schule (Integrierte Sekundarschule),436,200,236,44,26,18
+2024/25,04K10,Wangari-Maathai-Internationale-Schule,304,140,164,34,23,11
+2024/25,04P01,Katholische Schule Herz Jesu (Grundschule),312,151,161,22,19,3
+2024/25,04P02,Schele-Schule (Gemeinschaftsschule),141,67,74,18,12,6
+2024/25,04P03,Heinz-Galinski-Schule (Grundschule),251,138,113,24,17,7
+2024/25,04P04,Katholische Schule Liebfrauen (Gymnasium),735,418,317,65,39,26
+2024/25,04P05,Evangelische Schule Charlottenburg (Integrierte Sekundarschule),471,235,236,40,28,12
+2024/25,04P09,IFAG Institut f?r angewandte Gerontologie,0,0,0,,,
+2024/25,04P10,Katholische Schule Sankt Ludwig (Grundschule),258,144,114,18,15,3
+2024/25,04P11,Evangelisches Gymnasium zum Grauen Kloster,591,301,290,57,34,23
+2024/25,04P12,Annie-Heuser-Schule,313,169,144,37,29,8
+2024/25,04P15,Freie Schule Charlottenburg,79,35,44,14,9,5
+2024/25,04P20,Rackow-Schulen Berlin,412,208,204,41,21,20
+2024/25,04P21,Evangelische Schule Wilmersdorf (Grundschule),274,150,124,25,24,1
+2024/25,04P22,Erste Aktivschule Charlottenburg (Grundschule),42,20,22,3,2,1
+2024/25,04P23,J?dische Traditionsschule,190,88,102,30,21,9
+2024/25,04P24,Moser-Schule - Schweizer Gymnasium,334,159,175,36,23,13
+2024/25,04P27,Schule am Westend,74,36,38,8,5,3
+2024/25,04P35,Mentora Gymnasium,72,38,34,10,6,4
+2024/25,04P37,Campus Berufsbildung e.V.,120,80,40,15,7,8
+2024/25,04P39,Berlin British School (Grundschule),118,56,62,21,15,6
+2024/25,04P40,Berlin British School (Integrierte Sekundarschule),66,37,29,29,11,18
+2024/25,04P41,Freudberg-Gemeinschaftsschule,331,159,172,42,31,11
+2024/25,04P42,Private Kant-Schule - Berlin International School,846,429,417,106,75,31
+2024/25,04P45,Jewish International School - Masorti-Grundschule,77,31,46,15,12,3
+2024/25,04P46,Hasenschule (Grundschule),24,7,17,2,2,0
+2024/25,04P47,Privates Europa-Gymnasium Berlin,84,42,42,16,6,10
+2024/25,04S02,Arno-Fuchs-Schule,124,50,74,27,23,4
+2024/25,04S04,Reinfelder-Schule,408,167,241,58,52,6
+2024/25,04S05,Ernst-Adolf-Eschke-Schule f?r Geh?rlose,120,59,61,40,31,9
+2024/25,04S06,Finkenkrug-Schule,133,38,95,25,19,6
+2024/25,04S07,Comenius-Schule,591,225,366,102,85,17
+2024/25,04Y01,Schiller-Gymnasium,1005,552,453,89,59,30
+2024/25,04Y02,Wald-Gymnasium,734,328,406,68,38,30
+2024/25,04Y03,Sophie-Charlotte-Gymnasium,730,416,314,61,37,24
+2024/25,04Y04,Gottfried-Keller-Gymnasium,858,347,511,81,52,29
+2024/25,04Y05,Herder-Gymnasium,900,301,599,72,39,33
+2024/25,04Y06,Heinz-Berggruen-Gymnasium,874,565,309,74,45,29
+2024/25,04Y07,Friedrich-Ebert-Gymnasium,791,446,345,64,35,29
+2024/25,04Y08,Hildegard-Wegscheider-Gymnasium,619,258,361,47,31,16
+2024/25,04Y09,Walther-Rathenau-Gymnasium,555,246,309,49,26,23
+2024/25,04Y10,Marie-Curie-Gymnasium,717,335,382,64,37,27
+2024/25,04Y11,Goethe-Gymnasium,836,420,416,61,30,31
+2024/25,05B01,"OSZ TIEM (Technische Informatik, Industrieelektronik und EnergieManagement)",1910,114,1796,82,22,60
+2024/25,05B02,Knobelsdorff-Schule (OSZ Bautechnik I),1843,131,1712,133,38,95
+2024/25,05G01,Ernst-Ludwig-Heim-Grundschule,450,200,250,49,40,9
+2024/25,05G02,Grundschule am Eichenwald,447,224,223,38,28,10
+2024/25,05G04,Klosterfeld-Grundschule,372,183,189,35,28,7
+2024/25,05G05,Christoph-F?lderich-Grundschule,568,284,284,55,46,9
+2024/25,05G06,Siegerland-Grundschule,553,266,287,49,41,8
+2024/25,05G07,Lynar-Grundschule,518,251,267,58,46,12
+2024/25,05G08,Konkordia-Grundschule,441,216,225,30,23,7
+2024/25,05G10,Grundschule am Birkenhain,477,248,229,46,35,11
+2024/25,05G11,Robert-Reinick-Grundschule,548,259,289,41,29,12
+2024/25,05G12,Grundschule am Weinmeisterhorn,418,206,212,33,30,3
+2024/25,05G13,Bernd-Ryke-Grundschule,639,310,329,59,30,29
+2024/25,05G14,Linden-Grundschule,625,316,309,45,37,8
+2024/25,05G15,Askanier-Grundschule,429,197,232,33,21,12
+2024/25,05G16,Zeppelin-Grundschule,285,127,158,23,16,7
+2024/25,05G17,Astrid-Lindgren-Grundschule,467,233,234,48,41,7
+2024/25,05G18,Grundschule im Beerwinkel,602,273,329,51,31,20
+2024/25,05G19,Grundschule am Ritterfeld,536,254,282,38,33,5
+2024/25,05G20,Carl-Schurz-Grundschule,483,225,258,45,36,9
+2024/25,05G21,Paul-Moor-Grundschule,255,112,143,36,30,6
+2024/25,05G22,Christian-Morgenstern-Grundschule,580,298,282,50,42,8
+2024/25,05G23,Grundschule am Brandwerder,421,196,225,36,31,5
+2024/25,05G24,Grundschule am Windm?hlenberg,418,204,214,34,32,2
+2024/25,05G25,Grundschule am Wasserwerk,205,98,107,22,14,8
+2024/25,05G26,Grundschule am Amalienhof,519,253,266,45,40,5
+2024/25,05G27,Peter-H?rtling-Grundschule,629,298,331,56,53,3
+2024/25,05G28,Grundschule an der Pulverm?hle,677,348,329,50,39,11
+2024/25,05G29,Mary-Poppins-Grundschule,519,261,258,36,29,7
+2024/25,05G30,Birken-Grundschule,525,256,269,59,46,13
+2024/25,05G31,Havel-Grundschule,518,269,249,55,42,13
+2024/25,05G32,32. Schule (Grundschule),37,17,20,3,3,0
+2024/25,05K01,Martin-Buber-Oberschule (Integrierte Sekundarschule),1043,547,496,100,57,43
+2024/25,05K02,Carlo-Schmid-Oberschule (Integrierte Sekundarschule),1045,547,498,106,64,42
+2024/25,05K03,Bertolt-Brecht-Oberschule (Integrierte Sekundarschule),1240,608,632,109,64,45
+2024/25,05K04,Heinrich-B?ll-Oberschule (Integrierte Sekundarschule),1009,471,538,97,54,43
+2024/25,05K05,B.-Traven-Gemeinschaftsschule,761,353,408,69,33,36
+2024/25,05K06,Wolfgang-Borchert-Schule (Integrierte Sekundarschule),861,389,472,88,46,42
+2024/25,05K07,Schule an der Jungfernheide (Integrierte Sekundarschule),450,206,244,55,41,14
+2024/25,05K08,Schule an der Haveld?ne (Integrierte Sekundarschule),833,345,488,86,51,35
+2024/25,05K09,Schule am Staakener Kleeblatt (Integrierte Sekundarschule),526,214,312,49,23,26
+2024/25,05P01,Freie Waldorfschule Havelh?he - Eugen Kolisko,339,166,173,38,27,11
+2024/25,05P02,Katholische Schule Bernhard Lichtenberg (Grundschule),323,176,147,23,21,2
+2024/25,05P03,Evangelische Schule Spandau im Johannesstift,635,347,288,54,39,15
+2024/25,05P04,August-Hermann-Francke-Schule,123,46,77,17,14,3
+2024/25,05P05,Berufsschule des Rotkreuz-Instituts,258,79,179,27,14,13
+2024/25,05P06,Werner-von-Siemens-Werkberufsschule der Siemens AG,241,12,229,13,3,10
+2024/25,05P10,Soziale Fachschulen Johannesstift Diakonie gGmbH,216,155,61,22,17,5
+2024/25,05P13,Wilhelmstadt Schulen,876,421,455,70,36,34
+2024/25,05P15,Immanuel-Grundschule,139,72,67,13,9,4
+2024/25,05P18,Freie Georgschule,275,147,128,28,21,7
+2024/25,05P19,SIS Swiss International School Berlin,270,119,151,30,19,11
+2024/25,05S01,Schule am Gr?ng?rtel,136,44,92,20,13,7
+2024/25,05S03,Schule am Gartenfeld,172,43,129,39,31,8
+2024/25,05S04,Schule am Stadtrand,101,38,63,32,26,6
+2024/25,05Y01,Freiherr-vom-Stein-Gymnasium,942,439,503,89,60,29
+2024/25,05Y02,Kant-Gymnasium,833,505,328,71,45,26
+2024/25,05Y03,Hans-Carossa-Gymnasium,1120,580,540,92,60,32
+2024/25,05Y04,Carl-Friedrich-von-Siemens-Gymnasium,790,379,411,65,38,27
+2024/25,05Y05,Lily-Braun-Gymnasium,696,444,252,57,34,23
+2024/25,06B01,Peter-Lenn?-Schule (OSZ Natur und Umwelt),1276,556,720,70,35,35
+2024/25,06B02,Louise-Schroeder-Schule (OSZ B?rowirtschaft und Verwaltung),2256,1353,903,115,64,51
+2024/25,06B03,OSZ B?rowirtschaft 1,1246,635,611,77,48,29
+2024/25,06B04,Wilhelm-Ostwald-Schule (OSZ Gestaltung),1207,504,703,73,35,38
+2024/25,06G01,Nord-Grundschule,388,177,211,28,27,1
+2024/25,06G02,S?d-Grundschule,370,183,187,26,23,3
+2024/25,06G03,Johannes-Tews-Grundschule,421,192,229,29,23,6
+2024/25,06G04,Erich-K?stner-Grundschule,434,207,227,30,26,4
+2024/25,06G05,Conrad-Schule (Grundschule),474,233,241,39,34,5
+2024/25,06G06,M?hlenau-Grundschule,626,282,344,53,49,4
+2024/25,06G07,Zinnowwald-Grundschule,486,235,251,37,28,9
+2024/25,06G08,Schweizerhof-Grundschule,421,217,204,31,28,3
+2024/25,06G09,Dreilinden-Grundschule,337,160,177,25,20,5
+2024/25,06G10,Grundschule am Buschgraben,253,129,124,24,20,4
+2024/25,06G12,Quentin-Blake-Grundschule,445,192,253,34,25,9
+2024/25,06G14,Sachsenwald-Grundschule,440,237,203,34,27,7
+2024/25,06G15,Dunant-Grundschule,574,275,299,41,39,2
+2024/25,06G16,Rothenburg-Grundschule,281,144,137,24,23,1
+2024/25,06G17,Grundschule am Insulaner,446,212,234,36,27,9
+2024/25,06G18,Athene-Grundschule,478,239,239,39,33,6
+2024/25,06G20,Alt-Lankwitzer Grundschule,484,220,264,34,31,3
+2024/25,06G21,Paul-Schneider-Grundschule,533,264,269,36,28,8
+2024/25,06G22,Giesensdorfer Grundschule,370,170,200,30,28,2
+2024/25,06G23,Kronach-Grundschule,449,217,232,31,26,5
+2024/25,06G24,Grundschule unter den Kastanien,474,243,231,34,30,4
+2024/25,06G25,Clemens-Brentano-Grundschule,485,253,232,35,31,4
+2024/25,06G26,K?the-Kruse-Grundschule,412,209,203,32,29,3
+2024/25,06G27,Grundschule am K?nigsgraben,628,305,323,45,40,5
+2024/25,06G28,Ludwig-Bechstein-Grundschule,261,124,137,25,19,6
+2024/25,06G29,Grundschule am Karpfenteich,474,252,222,33,29,4
+2024/25,06G30,Mercator-Grundschule,323,161,162,28,23,5
+2024/25,06G31,Grundschule an der B?ke,440,214,226,37,33,4
+2024/25,06G32,Grundschule am Stadtpark Steglitz,523,255,268,38,32,6
+2024/25,06G33,Friedrich-Drake-Grundschule,317,148,169,25,23,2
+2024/25,06G34,Grundschule in der Plantagenstra?e,280,129,151,19,16,3
+2024/25,06K01,John-F.-Kennedy-Schule,1463,705,758,159,99,60
+2024/25,06K02,Wilma-Rudolph-Schule (Integrierte Sekundarschule),1012,470,542,102,60,42
+2024/25,06K03,Kopernikus-Schule (Integrierte Sekundarschule),954,464,490,97,58,39
+2024/25,06K04,Br?ndby-Schule (Integrierte Sekundarschule),998,455,543,88,53,35
+2024/25,06K08,Max-von-Laue-Schule,520,234,286,56,37,19
+2024/25,06K09,Gail-S.-Halvorsen-Integrierte Sekundarschule,472,185,287,47,34,13
+2024/25,06K10,Helene-Lange-Schule (Integrierte Sekundarschule),676,277,399,66,49,17
+2024/25,06K11,Anna-Essinger-Gemeinschaftsschule,933,461,472,101,77,24
+2024/25,06P01,Katholische Schule Sankt Ursula (Grundschule),297,168,129,25,24,1
+2024/25,06P02,Johanna-Gerdes-Grundschule,123,69,54,11,8,3
+2024/25,06P04,Rudolf-Steiner-Schule Berlin,838,440,398,85,56,29
+2024/25,06P05,Emil-Molt-Schule,378,184,194,31,20,11
+2024/25,06P06,K?nigin-Luise-Stiftung,964,490,474,104,66,38
+2024/25,06P07,Parzival-Schule,135,61,74,35,28,7
+2024/25,06P08,Sancta-Maria-Schule der Hedwigschwestern,132,55,77,27,19,8
+2024/25,06P09,Caroline-von-Heydebrand-Schule,77,21,56,16,12,4
+2024/25,06P10,Private Kant-Schule (Grundschule),295,129,166,27,20,7
+2024/25,06P11,Private Kant-Schule,1079,535,544,106,74,32
+2024/25,06P12,Evangelische Schule Steglitz (Integrierte Sekundarschule),621,323,298,53,36,17
+2024/25,06P13,Gemeinschaftsschule nach der P?dagogik Berthold Ottos,177,83,94,20,15,5
+2024/25,06P15,Oberlin-Seminar,299,213,86,24,18,6
+2024/25,06P18,Bilinguale Schule Phorms Berlin S?d,547,277,270,53,28,25
+2024/25,06P20,Freie Schule Anne-Sophie Berlin,427,222,205,58,42,16
+2024/25,06P21,Internationale Montessorischule Berlin (Grundschule),117,54,63,13,11,2
+2024/25,06P24,Evangelische Grundschule Zehlendorf,172,82,90,17,15,2
+2024/25,06S01,Pestalozzi-Schule,248,93,155,48,43,5
+2024/25,06S02,Biesalski-Schule,202,57,145,55,45,10
+2024/25,06S03,Peter-Frankenfeld-Schule,72,19,53,21,16,5
+2024/25,06S05,J.-A.-Zeune-Schule f?r Blinde und Berufsfachschule Dr. Silex,114,44,70,52,44,8
+2024/25,06Y01,Schadow-Gymnasium,1050,507,543,90,51,39
+2024/25,06Y02,Droste-H?lshoff-Gymnasium,830,501,329,69,45,24
+2024/25,06Y03,Arndt-Gymnasium Dahlem,878,476,402,70,44,26
+2024/25,06Y04,Dreilinden-Gymnasium,766,369,397,72,46,26
+2024/25,06Y05,Werner-von-Siemens-Gymnasium,908,365,543,66,44,22
+2024/25,06Y06,Beethoven-Gymnasium,876,530,346,72,43,29
+2024/25,06Y07,Paulsen-Gymnasium,698,367,331,57,30,27
+2024/25,06Y08,Hermann-Ehlers-Gymnasium,608,317,291,54,35,19
+2024/25,06Y09,Fichtenberg-Oberschule,809,472,337,78,46,32
+2024/25,06Y10,Lilienthal-Gymnasium,767,417,350,64,42,22
+2024/25,06Y11,Goethe-Gymnasium Lichterfelde,726,345,381,69,35,34
+2024/25,06Y12,Willi-Graf-Gymnasium,585,318,267,49,26,23
+2024/25,06Y13,Gymnasium Steglitz,816,415,401,73,43,30
+2024/25,07B02,Marie-Elisabeth-L?ders-Oberschule,647,484,163,61,41,20
+2024/25,07B03,"OSZ Lotis (Logistik, Touristik und Steuern)",2131,801,1330,97,62,35
+2024/25,07G01,Spreewald-Grundschule,417,207,210,41,34,7
+2024/25,07G02,Finow-Grundschule,542,287,255,47,41,6
+2024/25,07G03,Werbellinsee-Grundschule,454,219,235,36,32,4
+2024/25,07G05,Havelland-Grundschule,465,231,234,37,29,8
+2024/25,07G06,Sternberg-Grundschule,259,122,137,29,25,4
+2024/25,07G07,Lindenhof-Grundschule,380,170,210,30,22,8
+2024/25,07G10,Teltow-Grundschule,468,227,241,44,38,6
+2024/25,07G12,Scharm?tzelsee-Grundschule,465,236,229,37,31,6
+2024/25,07G13,Neumark-Grundschule,447,213,234,38,29,9
+2024/25,07G14,L?cknitz-Grundschule,401,192,209,29,21,8
+2024/25,07G15,Fl?ming-Grundschule,550,275,275,41,34,7
+2024/25,07G16,Ruppin-Grundschule,607,314,293,40,33,7
+2024/25,07G17,Stechlinsee-Grundschule,641,332,309,48,36,12
+2024/25,07G18,Grundschule am Barbarossaplatz,294,149,145,32,28,4
+2024/25,07G19,Paul-Simmel-Grundschule,530,262,268,48,36,12
+2024/25,07G20,Maria-Montessori-Grundschule,493,241,252,37,34,3
+2024/25,07G21,Grundschule auf dem Tempelhofer Feld,605,305,300,45,37,8
+2024/25,07G22,Paul-Klee-Grundschule,673,323,350,57,46,11
+2024/25,07G23,Sch?tzelberg-Grundschule,374,155,219,31,21,10
+2024/25,07G24,Tempelherren-Grundschule,335,165,170,28,22,6
+2024/25,07G25,Mascha-Kal?ko-Grundschule,450,219,231,38,27,11
+2024/25,07G26,Grundschule im Taunusviertel,354,158,196,28,17,11
+2024/25,07G27,Rudolf-Hildebrand-Grundschule,580,277,303,41,29,12
+2024/25,07G28,Kiepert-Grundschule,452,192,260,35,28,7
+2024/25,07G29,K?the-Kollwitz-Grundschule,554,261,293,39,34,5
+2024/25,07G30,Annedore-Leber-Grundschule,728,358,370,64,52,12
+2024/25,07G31,Carl-Sonnenschein-Grundschule,469,225,244,32,25,7
+2024/25,07G32,Bruno-H.-B?rgel-Grundschule,592,291,301,47,43,4
+2024/25,07G34,Marienfelder Schule (Grundschule),839,392,447,56,40,16
+2024/25,07G35,Nahariya-Grundschule,709,329,380,55,42,13
+2024/25,07G36,Grundschule am Dielingsgrund,530,275,255,35,26,9
+2024/25,07G37,Ikarus-Grundschule,573,257,316,38,29,9
+2024/25,07G40,40. Schule (Grundschule),113,55,58,12,10,2
+2024/25,07K01,Sophie-Scholl-Schule,1085,544,541,115,74,41
+2024/25,07K02,Carl-Zeiss-Schule,1005,523,482,97,58,39
+2024/25,07K03,Gustav-Heinemann-Oberschule,1193,603,590,102,36,66
+2024/25,07K04,Theodor-Haubach-Schule,571,263,308,48,32,16
+2024/25,07K05,Solling-Schule,505,215,290,47,33,14
+2024/25,07K06,Georg-von-Giesche-Schule,449,218,231,57,37,20
+2024/25,07K07,Johanna-Eck-Schule (Integrierte Sekundarschule),566,281,285,69,36,33
+2024/25,07K09,Gustav-Langenscheidt-Schule,419,185,234,44,22,22
+2024/25,07K10,Friedrich-Bergius-Schule,401,181,220,43,27,16
+2024/25,07K11,Hugo-Gaudig-Schule,417,179,238,42,23,19
+2024/25,07K12,Friedenauer Gemeinschaftsschule,1187,577,610,119,89,30
+2024/25,07K13,Schule am Berlinickeplatz (Integrierte Sekundarschule),397,177,220,40,26,14
+2024/25,07P01,Katholische Schule Sankt Franziskus (Integrierte Sekundarschule),470,250,220,55,37,18
+2024/25,07P02,Pestalozzi-Fr?bel-Haus,516,339,177,42,29,13
+2024/25,07P03,Lette-Verein Stiftung des ?ffentlichen Rechts,392,211,181,85,51,34
+2024/25,07P04,Katholische Schule Sankt Alfons (Grundschule),313,160,153,22,21,1
+2024/25,07P05,Freie Schule in Berlin (Grundschule),50,27,23,4,2,2
+2024/25,07P06,Katholische Schule Sankt Hildegard,125,55,70,34,26,8
+2024/25,07P10,Campus Berufsbildung e.V.,354,249,105,53,37,16
+2024/25,07P12,SPI Fachschule f?r Sozialp?dagogik,8,5,3,2,2,0
+2024/25,07P13,Deutsch Skandinavische Gemeinschaftsschule,205,96,109,24,15,9
+2024/25,07P17,Humanistische Fachschule f?r Sozialp?dagogik,134,100,34,10,8,2
+2024/25,07P18,Johannes-Schule Berlin,370,198,172,41,31,10
+2024/25,07P19,Freie Schule Sch?neberg (Gemeinschaftsschule),95,45,50,11,7,4
+2024/25,07P20,Rudolf Steiner Bildungszentrum gGmbH,205,130,75,30,23,7
+2024/25,07P21,BBA-Akademie f?r Immobilienwirtschaft e.V.,385,216,169,13,9,4
+2024/25,07P22,WBS Training Schulen gGmbH,137,96,41,12,6,6
+2024/25,07S01,Prignitz-Schule,189,56,133,43,30,13
+2024/25,07S03,Steinwald-Schule,117,40,77,26,23,3
+2024/25,07S04,Marianne-Cohn-Schule,126,48,78,27,21,6
+2024/25,07Y01,Robert-Blum-Gymnasium,768,450,318,68,49,19
+2024/25,07Y02,R?ckert-Gymnasium,791,398,393,68,34,34
+2024/25,07Y03,Rheingau-Gymnasium,725,409,316,60,34,26
+2024/25,07Y04,Paul-Natorp-Gymnasium,811,420,391,68,42,26
+2024/25,07Y05,Luise-Henriette-Gymnasium,473,246,227,46,32,14
+2024/25,07Y06,Askanisches Gymnasium,741,395,346,57,29,28
+2024/25,07Y07,Eckener-Gymnasium,740,366,374,59,35,24
+2024/25,07Y08,Ulrich-von-Hutten-Gymnasium,839,441,398,69,36,33
+2024/25,07Y09,Georg-B?chner-Gymnasium,580,317,263,50,26,24
+2024/25,08B01,Annedore-Leber-Oberschule,758,245,513,61,35,26
+2024/25,08B02,"Lise-Meitner-Schule (OSZ Chemie, Physik und Biologie)",1190,510,680,106,61,45
+2024/25,08B04,OSZ Informations- und Medizintechnik,2721,498,2223,123,45,78
+2024/25,08B05,Carl-Legien-Schule (Schulbetrieb an 01B04),56,39,17,7,6,1
+2024/25,08G01,Rixdorfer Schule (Grundschule),362,171,191,41,28,13
+2024/25,08G02,Theodor-Storm-Schule (Grundschule),184,85,99,25,17,8
+2024/25,08G03,Hans-Fallada-Schule (Grundschule),439,211,228,45,34,11
+2024/25,08G05,Elbe-Schule (Grundschule),248,110,138,29,19,10
+2024/25,08G06,Karl-Weise-Schule (Grundschule),370,196,174,29,19,10
+2024/25,08G07,Hermann-Boddin-Schule (Grundschule),270,130,140,26,18,8
+2024/25,08G08,Karlsgarten-Schule (Grundschule),482,218,264,40,31,9
+2024/25,08G09,Regenbogen-Schule (Grundschule),514,239,275,41,37,4
+2024/25,08G11,Schliemann-Grundschule,622,331,291,44,34,10
+2024/25,08G12,Jenaplanschule Neuk?lln (Grundschule),296,128,168,24,19,5
+2024/25,08G13,Bruno-Taut-Schule (Grundschule),535,245,290,41,34,7
+2024/25,08G14,Konrad-Agahd-Schule (Grundschule),254,126,128,23,15,8
+2024/25,08G15,Hermann-Sander-Schule (Grundschule),577,283,294,42,28,14
+2024/25,08G16,Hugo-Heimann-Schule (Grundschule),349,174,175,30,25,5
+2024/25,08G17,Richard-Schule (Grundschule),568,321,247,47,32,15
+2024/25,08G18,Eduard-M?rike-Schule (Grundschule),302,151,151,28,18,10
+2024/25,08G19,Herman-Nohl-Schule (Grundschule),496,246,250,51,37,14
+2024/25,08G20,Sonnen-Schule (Grundschule),328,165,163,31,19,12
+2024/25,08G21,Silberstein-Schule (Grundschule),337,154,183,27,20,7
+2024/25,08G22,Schule am Regenweiher (Grundschule),382,202,180,32,30,2
+2024/25,08G23,Z?rich-Schule (Grundschule),380,200,180,36,32,4
+2024/25,08G24,Schule am Teltowkanal (Grundschule),379,188,191,37,28,9
+2024/25,08G25,Michael-Ende-Schule (Grundschule),431,230,201,35,32,3
+2024/25,08G26,Christoph-Ruden-Schule (Grundschule),310,154,156,30,24,6
+2024/25,08G27,Oskar-Heinroth-Schule (Grundschule),651,338,313,51,36,15
+2024/25,08G28,Matthias-Claudius-Schule (Grundschule),595,275,320,42,35,7
+2024/25,08G29,Wetzlar-Schule (Grundschule),413,212,201,37,31,6
+2024/25,08G30,Schule am Sandsteinweg (Grundschule),758,383,375,46,38,8
+2024/25,08G31,Janusz-Korczak-Schule (Grundschule),326,148,178,29,22,7
+2024/25,08G33,Schule am Fliederbusch (Grundschule),375,185,190,37,25,12
+2024/25,08G34,Lisa-Tetzner-Schule (Grundschule),430,203,227,36,27,9
+2024/25,08G35,Schule in der K?llnischen Heide (Grundschule),617,318,299,49,37,12
+2024/25,08G36,L?wenzahn-Schule (Grundschule),277,138,139,23,14,9
+2024/25,08G37,Rose-Oehmichen-Schule (Grundschule),301,150,151,26,22,4
+2024/25,08K01,Walter-Gropius-Schule (Gemeinschaftsschule),1050,525,525,113,74,39
+2024/25,08K02,Hermann-von-Helmholtz-Schule,854,402,452,84,54,30
+2024/25,08K03,Otto-Hahn-Schule,807,328,479,77,36,41
+2024/25,08K04,Heinrich-Mann-Schule,452,186,266,44,25,19
+2024/25,08K05,Clay-Schule,1063,562,501,99,53,46
+2024/25,08K06,Fritz-Karsen-Schule (Gemeinschaftsschule),1219,603,616,121,75,46
+2024/25,08K08,Gemeinschaftsschule auf dem Campus R?tli,966,461,505,118,74,44
+2024/25,08K09,R?ntgen-Schule,404,199,205,43,30,13
+2024/25,08K10,Zuckmayer-Schule,409,203,206,43,30,13
+2024/25,08K11,Alfred-Nobel-Schule,540,234,306,52,31,21
+2024/25,08K12,Kepler-Schule,374,173,201,45,26,19
+2024/25,08K13,Gemeinschaftsschule Campus Efeuweg,761,363,398,71,48,23
+2024/25,08P01,Johann-Georg-Elser-Schule (Grundschule),62,28,34,6,4,2
+2024/25,08P02,Katholische Schule Sankt Marien (Grundschule),334,177,157,21,17,4
+2024/25,08P03,Evangelische Schule Neuk?lln (Integrierte Sekundarschule),886,457,429,85,53,32
+2024/25,08P04,Katholische Schule Sankt Marien,897,497,400,98,60,38
+2024/25,08P08,Cenfila gGmbH,107,76,31,11,9,2
+2024/25,08P09,MeineSchuleBerlin (Gemeinschaftsschule),39,21,18,11,5,6
+2024/25,08P13,b-trend-setting gGmbH,36,6,30,13,,
+2024/25,08P15,IB-Berlin-Brandenburg gGmbH - Medizinische Akademie Berlin,110,77,33,15,11,4
+2024/25,08P17,DAA - Deutsche Angestellten-Akademie GmbH,79,66,13,8,8,0
+2024/25,08S01,Adolf-Reichwein-Schule,155,61,94,36,24,12
+2024/25,08S04,Schule am Zwickauer Damm,228,88,140,37,21,16
+2024/25,08S05,Schule am Hasenhegerweg,103,38,65,29,20,9
+2024/25,08S06,Hans-Fallada-Schule,84,26,58,20,14,6
+2024/25,08S07,Schule am Bienwaldring,177,74,103,40,33,7
+2024/25,08S08,Schilling-Schule,275,101,174,71,55,16
+2024/25,08S09,Schule an der Windm?hle,51,15,36,15,9,6
+2024/25,08Y01,Albrecht-D?rer-Gymnasium,711,347,364,58,37,21
+2024/25,08Y02,Albert-Schweitzer-Gymnasium,609,380,229,60,33,27
+2024/25,08Y03,Albert-Einstein-Gymnasium,1041,592,449,95,49,46
+2024/25,08Y04,Ernst-Abbe-Gymnasium,667,371,296,58,32,26
+2024/25,08Y05,Leonardo-da-Vinci-Gymnasium,740,384,356,63,42,21
+2024/25,08Y06,Hannah-Arendt-Gymnasium,796,422,374,62,41,21
+2024/25,09A07,Flatow-Oberschule,276,90,186,41,25,16
+2024/25,09B03,Hermann-Scheer-Schule (OSZ Wirtschaft),1564,874,690,76,49,27
+2024/25,09G01,Bouch?-Schule (Grundschule),656,332,324,43,34,9
+2024/25,09G03,Schule am Heidekampgraben (Grundschule),534,271,263,43,31,12
+2024/25,09G04,Sonnenblumen-Schule (Grundschule),423,209,214,28,23,5
+2024/25,09G05,Schule am Ginkobaum (Grundschule),694,344,350,43,33,10
+2024/25,09G06,Melli-Beese-Schule (Grundschule),501,243,258,36,27,9
+2024/25,09G07,Schule an der alten Feuerwache (Grundschule),682,339,343,52,44,8
+2024/25,09G09,Heide-Schule (Grundschule),542,261,281,46,40,6
+2024/25,09G10,Schule am Berg (Grundschule),653,342,311,41,37,4
+2024/25,09G11,Schule am Pegasuseck (Grundschule),545,269,276,39,29,10
+2024/25,09G13,Schule am Altglienicker Wasserturm (Grundschule),516,267,249,34,25,9
+2024/25,09G14,Schule am Buntzelberg (Grundschule),695,349,346,46,37,9
+2024/25,09G15,Schule am Mohnweg (Grundschule),689,339,350,44,34,10
+2024/25,09G16,Wendenschlo?-Schule (Grundschule),481,218,263,30,25,5
+2024/25,09G17,Uhlenhorst-Grundschule,583,267,316,40,34,6
+2024/25,09G18,Schule in der K?llnischen Vorstadt (Grundschule),478,221,257,43,33,10
+2024/25,09G19,Amtsfeld-Schule (Grundschule),573,282,291,39,34,5
+2024/25,09G20,M?ggelheimer Schule (Grundschule),414,194,220,25,20,5
+2024/25,09G21,Edison-Grundschule,448,225,223,57,49,8
+2024/25,09G22,Schule an der Wuhlheide (Grundschule),615,313,302,49,37,12
+2024/25,09G23,Hauptmann-von-K?penick-Schule (Grundschule),517,257,260,35,28,7
+2024/25,09G24,M?ggelsee-Schule (Grundschule),439,234,205,29,27,2
+2024/25,09G25,M?ggelschl??chen-Schule (Grundschule),385,210,175,26,24,2
+2024/25,09G26,Schule an den P?ttbergen (Grundschule),623,290,333,38,32,6
+2024/25,09G27,Friedrichshagener Schule (Grundschule),411,201,210,32,28,4
+2024/25,09G29,Schm?ckwitzer Insel-Schule (Grundschule),261,122,139,17,14,3
+2024/25,09G30,Kiefholz-Grundschule,392,181,211,28,22,6
+2024/25,09G31,Wildbienen-Grundschule,371,190,181,25,21,4
+2024/25,09G32,32. Schule (Grundschule),62,27,35,7,6,1
+2024/25,09K01,Merian-Schule (Integrierte Sekundarschule),1027,497,530,93,51,42
+2024/25,09K02,Anna-Seghers-Schule (Gemeinschaftsschule),1366,715,651,103,78,25
+2024/25,09K03,Fritz-K?hn-Schule (Integrierte Sekundarschule),496,224,272,44,18,26
+2024/25,09K04,Isaac-Newton-Schule (Integrierte Sekundarschule),463,223,240,43,27,16
+2024/25,09K05,Wilhelm-B?lsche-Schule (Integrierte Sekundarschule),571,253,318,45,28,17
+2024/25,09K06,Hans-Grade-Schule (Integrierte Sekundarschule),445,183,262,37,23,14
+2024/25,09K07,Sophie-Brahe-Gemeinschaftsschule,1163,564,599,97,54,43
+2024/25,09K08,Schule an der Dahme (Integrierte Sekundarschule),635,323,312,53,34,19
+2024/25,09K09,Gr?nauer Gemeinschaftsschule,1168,582,586,95,69,26
+2024/25,09P01,Freie Waldorfschule Berlin-S?dost,394,218,176,38,28,10
+2024/25,09P05,Grone - Bildungszentren Berlin GmbH - gemeinn?tzig,25,18,7,12,8,4
+2024/25,09P06,Montessori Campus Berlin K?penick (Gemeinschaftsschule),347,177,170,32,23,9
+2024/25,09P07,Evangelische Schule K?penick (Gymnasium),611,364,247,65,39,26
+2024/25,09P09,BEST-Sabel-Oberschule,423,198,225,58,31,27
+2024/25,09P10,Bewegte Schule K?penick (Grundschule),74,31,43,12,10,2
+2024/25,09P11,Berufsbildungszentrum Chemie,18,2,16,11,3,8
+2024/25,09P12,Mosaik-Grundschule,140,54,86,10,8,2
+2024/25,09P13,Evangelische Grundschule Friedrichshagen,251,120,131,18,16,2
+2024/25,09P15,W-I-R-Grundschule Pfefferwerk,144,71,73,12,10,2
+2024/25,09P16,Kreativit?tsGrundschule Berlin Treptow,180,88,92,24,13,11
+2024/25,09P18,Freie Interkulturelle Waldorfschule Berlin,276,145,131,32,21,11
+2024/25,09P20,Elisabeth-Schulen,405,265,140,35,27,8
+2024/25,09P21,NEWSchool (Integrierte Sekundarschule) (KEIN Schulbetrieb),0,0,0,,,
+2024/25,09P22,BEST-Sabel Berufsakademie,16,10,6,7,3,4
+2024/25,09S03,Albatros-Schule,159,55,104,35,26,9
+2024/25,09S04,Ahorn-Schule,175,51,124,31,30,1
+2024/25,09S06,Schule am Wildgarten,178,71,107,27,21,6
+2024/25,09Y03,Archenhold-Gymnasium,741,350,391,63,37,26
+2024/25,09Y04,Anne-Frank-Gymnasium,907,451,456,75,42,33
+2024/25,09Y05,Alexander-von-Humboldt-Gymnasium,805,402,403,63,38,25
+2024/25,09Y06,Gerhart-Hauptmann-Gymnasium,819,475,344,63,45,18
+2024/25,09Y10,Gebr?der-Montgolfier-Gymnasium,962,565,397,79,46,33
+2024/25,09Y11,Emmy-Noether-Gymnasium,824,402,422,71,50,21
+2024/25,09Y12,12. Schule (Gymnasium),130,54,76,3,1,2
+2024/25,10B01,Oscar-Tietz-Schule (OSZ Handel II),1677,669,1008,70,53,17
+2024/25,10B02,Rahel-Hirsch-Schule (OSZ Gesundheit/Medizin),2254,1962,292,86,63,23
+2024/25,10G01,Paavo-Nurmi-Grundschule,403,191,212,31,22,9
+2024/25,10G03,Selma-Lagerl?f-Grundschule,439,214,225,39,29,10
+2024/25,10G04,Falken-Grundschule,343,180,163,28,20,8
+2024/25,10G05,Ebereschen-Grundschule,288,142,146,29,25,4
+2024/25,10G07,Karl-Friedrich-Friesen-Grundschule,534,263,271,38,31,7
+2024/25,10G08,Wilhelm-Busch-Grundschule,571,283,288,35,28,7
+2024/25,10G09,Grundschule am B?rgerpark,763,354,409,56,37,19
+2024/25,10G10,Peter-Pan-Grundschule,520,253,267,48,42,6
+2024/25,10G11,Grundschule an der M?hle,528,242,286,33,26,7
+2024/25,10G12,Grundschule an der Gei?enweide,486,242,244,34,27,7
+2024/25,10G13,Johann-Strauss-Grundschule,688,335,353,57,50,7
+2024/25,10G14,Grundschule unter dem Regenbogen,830,373,457,71,54,17
+2024/25,10G16,Fuchsberg-Grundschule,754,382,372,56,48,8
+2024/25,10G17,Beatrix-Potter-Grundschule,666,321,345,45,35,10
+2024/25,10G18,Pusteblume-Grundschule,781,361,420,60,44,16
+2024/25,10G19,B?cherwurm-Schule am Weiher (Grundschule),682,307,375,47,37,10
+2024/25,10G22,Kolibri-Grundschule,842,420,422,56,48,8
+2024/25,10G25,Grundschule am Schleipfuhl,721,355,366,50,38,12
+2024/25,10G26,Friedrich-Schiller-Grundschule,407,193,214,28,26,2
+2024/25,10G28,Grundschule am Hollerbusch,776,380,396,55,45,10
+2024/25,10G29,Grundschule an der Wuhle,679,325,354,44,36,8
+2024/25,10G30,Mahlsdorfer Grundschule,552,262,290,40,34,6
+2024/25,10G31,Franz-Carl-Achard-Grundschule,440,210,230,35,30,5
+2024/25,10G32,Kiekemal-Schule (Grundschule),657,323,334,45,41,4
+2024/25,10G33,Ulmen-Grundschule,614,316,298,41,33,8
+2024/25,10G34,Schule am gr?nen Stadtrand (Grundschule),271,136,135,18,11,7
+2024/25,10G36,36. Schule (Grundschule),474,233,241,38,30,8
+2024/25,10G37,37. Schule (Grundschule),57,28,29,9,7,2
+2024/25,10K01,Rudolf-Virchow-Schule,1198,591,607,108,68,40
+2024/25,10K02,Ernst-Haeckel-Schule,922,442,480,74,46,28
+2024/25,10K03,Kerschensteiner-Schule,322,119,203,27,17,10
+2024/25,10K05,Jean-Piaget-Schule,522,225,297,48,32,16
+2024/25,10K06,Georg-Klingenberg-Schule,600,237,363,57,32,25
+2024/25,10K07,Caspar-David-Friedrich-Schule,482,304,178,46,32,14
+2024/25,10K08,Johann-Julius-Hecker-Schule,576,238,338,40,21,19
+2024/25,10K09,Konrad-Wachsmann-Schule,549,218,331,51,35,16
+2024/25,10K10,Wolfgang-Amadeus-Mozart-Schule (Gemeinschaftsschule),1185,552,633,100,60,40
+2024/25,10K11,Marcana-Schule (Gemeinschaftsschule),701,328,373,55,34,21
+2024/25,10K12,Gretel-Bergmann-Gemeinschaftsschule,1197,558,639,99,72,27
+2024/25,10K13,13. Schule (Integrierte Sekundarschule),620,290,330,61,37,24
+2024/25,10K14,14. Schule (Gemeinschaftsschule),92,50,42,8,5,3
+2024/25,10P03,Gesellschaft f?r Pflege- und Sozialberufe gGmbH,225,176,49,23,16,7
+2024/25,10P05,BEST-Sabel-Grundschule Mahlsdorf,364,162,202,30,25,5
+2024/25,10P09,Sabine-Ball-Grundschule,249,150,99,19,14,5
+2024/25,10P10,Internationale Lomonossow-Schule Berlin Marzahn (Gemeinschaftsschule),484,246,238,58,46,12
+2024/25,10P12,Freie Schule Berlin Mahlsdorf,177,88,89,21,11,10
+2024/25,10P13,BEST-Sabel-Grundschule Kaulsdorf,373,188,185,24,17,7
+2024/25,10P14,dreieins-Grundschule Berlin Kaulsdorf,192,102,90,16,12,4
+2024/25,10P19,DRK - Schule f?r soziale Berufe Berlin gGmbH,224,145,79,19,12,7
+2024/25,10P20,"Chance Bildung, Jugend und Sport BJS gGmbH",82,66,16,10,7,3
+2024/25,10P21,D&B Dienstleistung und Bildung gGmbH,376,306,70,37,30,7
+2024/25,10P22,MANEGE gGmbH,66,23,43,11,4,7
+2024/25,10P24,Freie Grundschule Marzahn,104,54,50,9,8,1
+2024/25,10P25,miwa DEMOKRATISCHE SCHULE,27,10,17,2,1,1
+2024/25,10S04,Schule am Pappelhof,166,60,106,34,28,6
+2024/25,10S07,Schule am Rosenhain,310,113,197,54,39,15
+2024/25,10S08,Schule am Mummelsoll,154,48,106,36,32,4
+2024/25,10Y01,Tagore-Gymnasium,915,541,374,78,45,33
+2024/25,10Y02,Otto-Nagel-Gymnasium,948,519,429,77,40,37
+2024/25,10Y03,Wilhelm-von-Siemens-Gymnasium,895,441,454,74,47,27
+2024/25,10Y08,Sartre-Gymnasium,902,484,418,72,42,30
+2024/25,10Y11,Melanchthon-Gymnasium,1101,601,500,84,51,33
+2024/25,10Y12,12. Schule (Gymnasium),125,63,62,2,1,1
+2024/25,11A07,Schul- und Leistungssportzentrum Berlin (Sportforum),962,323,639,125,73,52
+2024/25,11B01,Hein-Moeller-Schule (OSZ Energietechnik II),1558,46,1512,68,15,53
+2024/25,11B02,"Max-Taut-Schule (OSZ Geb?ude, Umwelt, Technik)",2438,178,2260,99,28,71
+2024/25,11B04,Friedrich-List-Schule (OSZ B?romanagement und Wirtschaftssprachen),1298,816,482,65,42,23
+2024/25,11G01,Sonnenuhr-Schule (Grundschule),390,181,209,27,19,8
+2024/25,11G02,Schule am Roederplatz (Grundschule),438,218,220,32,23,9
+2024/25,11G03,Schule im Gutspark (Grundschule),413,184,229,29,26,3
+2024/25,11G05,Schule auf dem lichten Berg (Grundschule),664,316,348,49,42,7
+2024/25,11G06,Adam-Ries-Schule (Grundschule),520,240,280,38,32,6
+2024/25,11G07,Hermann-Gmeiner-Schule (Grundschule),528,228,300,40,30,10
+2024/25,11G08,Robinson-Schule (Grundschule),352,156,196,28,18,10
+2024/25,11G09,B?rgermeister-Ziethen-Schule (Grundschule),686,364,322,50,34,16
+2024/25,11G10,Schule im Ostseekarree (Grundschule),558,272,286,38,27,11
+2024/25,11G11,Bernhard-Grzimek-Schule (Grundschule),482,228,254,43,30,13
+2024/25,11G12,Lew-Tolstoi-Schule (Grundschule),657,342,315,54,46,8
+2024/25,11G13,Karlshorster Schule (Grundschule),647,299,348,44,36,8
+2024/25,11G14,Richard-Wagner-Schule (Grundschule),548,269,279,48,40,8
+2024/25,11G16,Schule an der Victoriastadt (Grundschule),688,328,360,48,39,9
+2024/25,11G17,Brodowin-Schule (Grundschule),688,343,345,57,51,6
+2024/25,11G18,Schule am Wilhelmsberg (Grundschule),724,351,373,64,48,16
+2024/25,11G19,Obersee-Schule (Grundschule),391,191,200,29,24,5
+2024/25,11G21,Schule Am Faulen See (Grundschule),412,189,223,31,21,10
+2024/25,11G22,Martin-Niem?ller-Grundschule,564,278,286,44,34,10
+2024/25,11G23,Friedrichsfelder Schule (Grundschule),444,220,224,35,28,7
+2024/25,11G25,Schule am W?ldchen (Grundschule),501,288,213,34,29,5
+2024/25,11G26,Randow-Schule (Grundschule),433,217,216,32,27,5
+2024/25,11G28,Feldmark-Schule (Grundschule),668,340,328,45,27,18
+2024/25,11G29,Matibi-Schule (Grundschule),782,403,379,51,38,13
+2024/25,11G31,Schmetterlings-Grundschule,378,181,197,27,22,5
+2024/25,11G32,Hans-Rosenthal-Grundschule,496,246,250,39,26,13
+2024/25,11G33,Gerda-Lagerl?f-Grundschule,201,104,97,14,10,4
+2024/25,11G34,Orankesee Schule (Grundschule),573,292,281,38,31,7
+2024/25,11G35,Grundschule am Tr?nkegraben,530,230,300,35,26,9
+2024/25,11G36,Ph?nix-Grundschule,416,212,204,23,18,5
+2024/25,11G37,Seepark-Grundschule,309,160,149,25,23,2
+2024/25,11G38,38. Schule (Grundschule),256,128,128,21,17,4
+2024/25,11G39,39. Schule (Grundschule),180,83,97,18,15,3
+2024/25,11K01,Alexander-Puschkin-Schule,440,242,198,42,29,13
+2024/25,11K02,Mildred-Harnack-Schule,884,438,446,75,47,28
+2024/25,11K04,Gutenberg-Schule,1003,543,460,85,57,28
+2024/25,11K05,Fritz-Reuter-Schule,866,406,460,73,40,33
+2024/25,11K06,Schule am Rathaus,396,190,206,39,27,12
+2024/25,11K07,Vincent-van-Gogh-Schule (Integrierte Sekundarschule),768,358,410,75,42,33
+2024/25,11K08,Schule-am-Tierpark (Integrierte Sekundarschule),777,364,413,71,40,31
+2024/25,11K09,Philipp-Reis-Schule (Integrierte Sekundarschule),694,318,376,55,33,22
+2024/25,11K10,Gr?ner Campus Malchow (Gemeinschaftsschule),1764,850,914,160,108,52
+2024/25,11K11,Paul-Schmidt-Schule (Integrierte Sekundarschule),600,252,348,57,39,18
+2024/25,11K12,Paul-und-Charlotte-Kniese-Schule (Gemeinschaftsschule),986,444,542,88,59,29
+2024/25,11K13,13. Schule (Integrierte Sekundarschule),369,176,193,36,17,19
+2024/25,11K14,14. Schule (Integrierte Sekundarschule),482,230,252,33,22,11
+2024/25,11K15,15. Schule (Integrierte Sekundarschule),227,107,120,22,11,11
+2024/25,11K16,16. Schule (Integrierte Sekundarschule),115,48,67,5,4,1
+2024/25,11P01,Katholische Schule Sankt Mauritius (Grundschule),154,74,80,13,10,3
+2024/25,11P02,bbw Akademie f?r Betriebswirtschaftliche Weiterbildung GmbH,234,154,80,22,15,7
+2024/25,11P03,Evangelische Schule Lichtenberg (Grundschule),278,145,133,22,18,4
+2024/25,11P04,Kreativit?tsGrundschule Berlin Lichtenberg,341,170,171,35,30,5
+2024/25,11P14,Schulen der BAWI gGmbH,133,89,44,24,17,7
+2024/25,11P15,Donner+ Kern gGmbH,151,114,37,17,11,6
+2024/25,11P17,P?dalogik GmbH - Fachschule f?r Sozialp?dagogik,116,82,34,11,9,2
+2024/25,11P18,Akademie f?r berufliche Bildung (AFBB) gGmbH,590,211,379,38,19,19
+2024/25,11P19,Semper Schulen Berlin gGmbH,186,146,40,21,9,12
+2024/25,11P21,Grundschule am Campus Hedwig,35,12,23,4,1,3
+2024/25,11S02,Schule am Fennpfuhl,127,47,80,25,24,1
+2024/25,11S04,Paul-und-Charlotte-Kniese-Schule,64,24,40,14,12,2
+2024/25,11S05,Schule am gr?nen Grund,95,48,47,22,15,7
+2024/25,11S06,Selma-Lagerl?f-Schule,183,54,129,24,23,1
+2024/25,11S07,Carl-von-Linn?-Schule,298,126,172,72,58,14
+2024/25,11S08,Schule Am Breiten Luch,210,84,126,32,19,13
+2024/25,11S12,Nils-Holgersson-Schule,210,63,147,43,33,10
+2024/25,11Y02,Johann-Gottfried-Herder-Gymnasium,999,650,349,87,56,31
+2024/25,11Y05,Hans-und-Hilde-Coppi-Gymnasium,742,419,323,74,46,28
+2024/25,11Y09,Barnim-Gymnasium,1235,710,525,101,71,30
+2024/25,11Y10,Manfred-von-Ardenne-Gymnasium,849,461,388,71,40,31
+2024/25,11Y11,Immanuel-Kant-Gymnasium,901,375,526,82,48,34
+2024/25,11Y12,12. Schule (Gymnasium),152,73,79,13,3,10
+2024/25,12A44,Willkommensschule TXL,417,205,212,53,39,14
+2024/25,12B01,Georg-Schlesinger-Schule (OSZ Maschinen- und Fertigungstechnik),1691,148,1543,70,23,47
+2024/25,12B02,Emil-Fischer-Schule (OSZ Ern?hrung und Lebensmitteltechnik),1483,757,726,109,69,40
+2024/25,12B03,Ernst-Litfa?-Schule (OSZ Mediengestaltung und Medientechnologie),880,356,524,68,31,37
+2024/25,12G01,Havelm?ller-Grundschule,353,175,178,29,25,4
+2024/25,12G02,Grundschule am Sch?fersee,469,217,252,45,36,9
+2024/25,12G03,Reginhard-Grundschule,414,203,211,28,20,8
+2024/25,12G04,Till-Eulenspiegel-Grundschule,548,278,270,36,26,10
+2024/25,12G05,Kolumbus-Grundschule,687,338,349,51,42,9
+2024/25,12G06,Hausotter-Grundschule,566,276,290,43,37,6
+2024/25,12G07,Mark-Twain-Grundschule,548,263,285,42,35,7
+2024/25,12G09,Grundschule an der Peckwisch,577,297,280,51,43,8
+2024/25,12G10,Peter-Witte-Grundschule,412,180,232,31,22,9
+2024/25,12G11,Ringelnatz-Grundschule,386,193,193,31,24,7
+2024/25,12G12,Borsigwalder Grundschule,535,230,305,35,28,7
+2024/25,12G13,Franz-Marc-Grundschule,414,208,206,38,34,4
+2024/25,12G14,Alfred-Brehm-Grundschule,416,206,210,30,25,5
+2024/25,12G15,Hoffmann-von-Fallersleben-Grundschule,459,217,242,37,34,3
+2024/25,12G17,Ellef-Ringnes-Grundschule,396,198,198,27,23,4
+2024/25,12G18,Grundschule am Tegelschen Ort,395,184,211,28,21,7
+2024/25,12G19,M?nchhausen-Grundschule,439,209,230,35,26,9
+2024/25,12G20,Grundschule am Vierrutenberg,472,217,255,33,27,6
+2024/25,12G21,Grundschule am Flie?tal,424,212,212,37,30,7
+2024/25,12G22,Gustav-Dreyer-Grundschule,503,254,249,33,28,5
+2024/25,12G23,Victor-Gollancz-Grundschule,491,227,264,42,35,7
+2024/25,12G24,Ren?e-Sintenis-Grundschule,422,209,213,29,26,3
+2024/25,12G26,M?rkische Grundschule,470,227,243,43,34,9
+2024/25,12G27,Chamisso-Grundschule,509,242,267,45,40,5
+2024/25,12G28,Grundschule in den Rollbergen,384,187,197,39,31,8
+2024/25,12G29,Hermann-Schulz-Grundschule,425,189,236,38,28,10
+2024/25,12G30,Reineke-Fuchs-Grundschule,462,239,223,39,36,3
+2024/25,12G32,Charlie-Chaplin-Grundschule,436,199,237,38,29,9
+2024/25,12G33,Lauterbach-Grundschule,504,248,256,43,34,9
+2024/25,12G34,Otfried-Preu?ler-Grundschule,659,300,359,55,49,6
+2024/25,12K01,Julius-Leber-Schule,409,151,258,39,27,12
+2024/25,12K02,Bettina-von-Arnim-Schule,1235,727,508,135,84,51
+2024/25,12K03,Max-Beckmann-Schule (Integrierte Sekundarschule),1029,574,455,99,62,37
+2024/25,12K04,Paul-L?be-Schule,609,254,355,77,49,28
+2024/25,12K05,Gustav-Freytag-Schule (Integrierte Sekundarschule),458,215,243,45,26,19
+2024/25,12K06,Benjamin-Franklin-Schule (Integrierte Sekundarschule),455,199,256,48,30,18
+2024/25,12K07,Jean-Kr?mer-Schule (Integrierte Sekundarschule) Wittenau,551,234,317,60,34,26
+2024/25,12K09,Carl-Benz-Schule (Integrierte Sekundarschule),432,159,273,46,30,16
+2024/25,12K10,Carl-Bosch-Schule,407,163,244,40,22,18
+2024/25,12K11,Albrecht-Haushofer-Schule,525,210,315,51,30,21
+2024/25,12K12,Campus Hannah H?ch (Gemeinschaftsschule),703,334,369,72,51,21
+2024/25,12P02,Waldorfschule M?rkisches Viertel Berlin,406,213,193,44,28,16
+2024/25,12P03,Evangelische Schule Frohnau,692,358,334,61,39,22
+2024/25,12P04,Katholische Schule Salvator,1154,642,512,97,67,30
+2024/25,12P06,Elisabethstift-Schule (Gemeinschaftsschule),48,24,24,16,13,3
+2024/25,12P07,Private Goethe-Schulen,294,137,157,34,25,9
+2024/25,12P10,Demokratische Schule X (Gemeinschaftsschule),101,48,53,9,3,6
+2024/25,12P11,Alternativschule Berlin (Gemeinschaftsschule),140,72,68,16,10,6
+2024/25,12P13,Euro Akademie Berlin,336,253,83,38,28,10
+2024/25,12P14,Montessori Campus am Tegeler Forst,252,122,130,30,20,10
+2024/25,12P15,EJF - Fachschule f?r soziale Berufe,86,55,31,7,6,1
+2024/25,12P19,APEGO-Schule Berlin (Gemeinschaftsschule),78,30,48,15,11,4
+2024/25,12P22,Mosaik Fachschule f?r Sozialp?dagogik,64,48,16,9,7,2
+2024/25,12P23,Eventus - Fachschule f?r Sozialp?dagogik,84,64,20,14,10,4
+2024/25,12P24,G.A.L.B F?rderung gGmbH,362,264,98,33,23,10
+2024/25,12P25,Elisabethstift-Schule,72,35,37,16,13,3
+2024/25,12P26,Fachschule f?r Sozialp?dagogik am Elisabethstift Berlin,31,22,9,4,4,0
+2024/25,12S01,St?tzner-Schule,110,40,70,22,16,6
+2024/25,12S02,Schule am Tegeler Forst,63,18,45,15,14,1
+2024/25,12S03,Lauterbach-Schule,113,40,73,26,20,6
+2024/25,12S04,Schule am Park,195,90,105,39,34,5
+2024/25,12S05,Waldseeschule,122,26,96,29,20,9
+2024/25,12S06,Toulouse-Lautrec-Schule,159,48,111,43,32,11
+2024/25,12Y01,Friedrich-Engels-Gymnasium,918,503,415,83,47,36
+2024/25,12Y02,Europ?isches Gymnasium Bertha-von-Suttner,1206,674,532,95,65,30
+2024/25,12Y03,Humboldt-Gymnasium,1123,497,626,114,60,54
+2024/25,12Y04,Gabriele-von-B?low-Gymnasium,946,512,434,80,55,25
+2024/25,12Y05,Georg-Herwegh-Gymnasium,925,466,459,81,52,29
+2024/25,12Y06,Schulfarm Insel Scharfenberg,422,216,206,44,28,16
+2024/25,12Y07,Romain-Rolland-Gymnasium,1109,576,533,90,53,37
+2024/25,12Y08,Thomas-Mann-Gymnasium,929,500,429,79,36,43
