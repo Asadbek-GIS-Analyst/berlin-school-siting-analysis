@@ -15,7 +15,7 @@ A GIS-based multi-criteria decision analysis (MCDA) project identifying priority
 - [Project Goal](#project-goal)
 - [Methodology](#methodology)
   - [1. Data Collection](#1-data-collection)
-- [Data Sources](#data-sources)
+- [Data Sources](#data)
 - [Tools Used](#tools-used)
 
 ## Project Goal
